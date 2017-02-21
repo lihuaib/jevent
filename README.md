@@ -1,7 +1,6 @@
 JEvent
 ========
-JEvent 是一个发布／订阅 的简单事件框架， 现在推荐用 Eventbus 来代替.<br/>
-<img src="EventBus-Publish-Subscribe.png" width="500" height="187"/>
+JEvent 是一个发布／订阅 的简单事件框架， 现在推荐用 Eventbus 来代替.
 
 JEvent...
 
